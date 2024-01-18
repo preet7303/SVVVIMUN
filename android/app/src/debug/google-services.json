@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "909332346705",
+    "firebase_url": "https://svvv-mun-2k23-default-rtdb.firebaseio.com",
+    "project_id": "svvv-mun-2k23",
+    "storage_bucket": "svvv-mun-2k23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909332346705:android:aee5ec4747e729a23bc570",
+        "android_client_info": {
+          "package_name": "com.svvv.imun_2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_tA0Hd_Bm14kYMfbX1IQoXuu3FjQXD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
